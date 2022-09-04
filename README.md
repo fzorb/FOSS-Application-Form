@@ -1,5 +1,7 @@
 # application
 
+## edit the webhook url in the pages/index.vue, line 105
+
 ## Build Setup
 
 ```bash
