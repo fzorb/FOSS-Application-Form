@@ -1,6 +1,6 @@
 # application
 
-## edit the webhook url in the pages/index.vue, line 105
+please note that this is actually a very retarded project and you should probably not use this.
 
 ## Build Setup
 
